@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-namespace ExercicioHerancaPolimorfismo.Entities
+namespace HerancaPolimorfismo.Entities
 {
     class ImportedProduct : Product
     {

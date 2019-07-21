@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using System.Collections.Generic;
-using ExercicioHerancaPolimorfismo.Entities;
+using HerancaPolimorfismo.Entities;
 
-namespace ExercicioHerancaPolimorfismo
+namespace HerancaPolimorfismo
 {
     class Program
     {

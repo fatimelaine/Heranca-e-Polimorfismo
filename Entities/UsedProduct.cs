@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ExercicioHerancaPolimorfismo.Entities
+namespace HerancaPolimorfismo.Entities
 {
     class UsedProduct : Product
     {
@@ -17,7 +17,7 @@ namespace ExercicioHerancaPolimorfismo.Entities
             ManufactureDate = manufactureDate;
         }
 
-        public override string PriceTag() //Iphone (used) $ 400.00 (Manufacture date: 15/03/2017)
+        public override string PriceTag()
         {
             return Name
                 + " (used) $ "
